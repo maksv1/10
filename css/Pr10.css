@@ -1,0 +1,17 @@
+.container {
+    max-width: 1200px;
+    margin: 0 400px;
+    padding: 20px;
+}
+
+.input-group {
+    margin-bottom: 10px;
+}
+
+.error-message {
+    color: red;
+}
+
+.list-group-item {
+    margin-bottom: 10px;
+}
